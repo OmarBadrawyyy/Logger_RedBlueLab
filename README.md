@@ -90,9 +90,3 @@ chmod +x detect_keylogger.sh
 ## ⚠️ Legal Disclaimer
 
 This tool is intended for **educational use only** in a **controlled environment**. Do not use on systems you don’t own or don’t have explicit permission to test. The author takes no responsibility for any misuse.
-
----
-
-## 💬 Questions / Feedback?
-
-This project was built as a hands-on red/blue team lab challenge. Contributions, ethical forks, and blue team enhancements are welcome.
