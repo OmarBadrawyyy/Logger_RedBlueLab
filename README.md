@@ -52,7 +52,7 @@ Included `detect_keylogger.sh` scans for:
 | `detect_keylogger.sh` | Blue team scanner |
 | `requirements.txt` | Python dependencies |
 | `.gitignore` | Clean repo structure |
-| `input-mgr` | Red team stealth binary (formerly logger) |
+| `input-mgr` | Red team stealth binary  |
 
 ---
 
